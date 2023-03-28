@@ -1,0 +1,8 @@
+**run the anaconda command prompt
+**change directory to the python script, i saved everything to my desktop rabi folder
+ex) cd desktop\rabi
+ex) c:\users\rabi\desktop\rabi\
+**run script
+ex) refreshmax333.py
+
+**default is set to 333 refreshes
